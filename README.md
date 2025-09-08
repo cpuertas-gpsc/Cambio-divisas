@@ -1,6 +1,6 @@
 # Sistema de Predicción Operativa DXY  
 **Felipe Castellano Construcciones & Grupo Procurval**
-![Felipe Castellano Construcciones]("logo completo.jpg")
+![Felipe Castellano Construcciones](logo completo.jpg)
 ---
 
 ## Descripción del proyecto
