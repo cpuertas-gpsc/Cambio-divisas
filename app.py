@@ -3,7 +3,7 @@ import base64
 
 # 🔹 Configuración de la página
 st.set_page_config(
-    page_title="Predicción USD/EUR – Grupo Procurval",
+    page_title="Predicción USD/EUR – Grupo Procourval",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -52,8 +52,8 @@ except Exception as e:
 
 # 🔹 Encabezado
 st.title("Predicción del tipo de cambio USD/EUR")
-st.subheader("Grupo Procurval – Departamento de Datos")
-st.markdown("Análisis y predicciones basadas en datos históricos y modelos avanzados de machine learning.")
+st.subheader("Análisis y predicciones basadas en datos históricos y modelos avanzados de machine learning.")
+st.markdown("Grupo Procourval – Departamento de Datos")
 
 import requests
 import pandas as pd
@@ -563,7 +563,7 @@ Este proyecto ha sido diseñado para ofrecer una solución predictiva robusta, t
 El modelo permite anticipar el comportamiento del dólar con fiabilidad y flexibilidad.
 
 **Cristina Puertas**
-**Departamento de Data – Grupo Procurval**
+**Departamento de Data – Grupo Procourval**
             cpuertas@gpsc.es
 ---
 
@@ -571,5 +571,5 @@ El modelo permite anticipar el comportamiento del dólar con fiabilidad y flexib
 
 Esta aplicación está en constante evolución. Si tienes sugerencias, mejoras o nuevas variables que se necesiten incorporar dispone de un repositorio en gitHub para gestionar incidencias y propuestas de mejora.
 https://github.com/cpuertas-gpsc/Cambio-divisas
-            **Grupo Procurval – Departamento de Datos**
+            **Grupo Procourval – Departamento de Datos**
 """)
